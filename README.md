@@ -1,10 +1,20 @@
-<header>
-    <h1>Raúl Zúñiga</h1>
-    <p>Estudiante de Desarrollo de Aplicaciones</p>
-</header>
+<!-- TITULO -->
+<h1>HOLA A TODOS!</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<!--Aquí voy a escribir una pequeña presentación -->
+<p>Soy Raúl Zúñiga. Bienvenidos a mi perfil.
+Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico Profesional DUOC UC. Mi intención es aprender a crear programas y desarrollar aplicaciones que permitan hacer mi vida más fácil o ayudar a otros a hacer sus vidas más facil.
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+
+<h1 align="center"></h1>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=aura&langs_count=9" />
+<img height="150" />
+
+<!--Contador de Número de visitantes -->
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rauletrox" />
+ 
 <!--
 **Rauletrox/Rauletrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
