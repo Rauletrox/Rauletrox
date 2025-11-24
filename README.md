@@ -3,9 +3,12 @@
 
 <!--Aquí voy a escribir una pequeña presentación -->
 <p>Soy Raúl Zúñiga. Bienvenidos a mi perfil.
-Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico Profesional DUOC UC. Mi intención es aprender a crear programas y desarrollar aplicaciones que permitan hacer mi vida más fácil o ayudar a otros a hacer sus vidas más facil.
+Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico Profesional DUOC UC. Mi intención es aprender a crear programas y desarrollar aplicaciones que permitan hacer mi vida más fácil o ayudar a otros a hacer sus vidas más facil.</p>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+<div  align="center"> 
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+</div>
+
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight" />
