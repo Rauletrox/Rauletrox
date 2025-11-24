@@ -1,4 +1,9 @@
-## Hi there 👋
+<header>
+    <h1>Raúl Zúñiga</h1>
+    <p>Estudiante de Desarrollo de Aplicaciones</p>
+</header>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
 <!--
 **Rauletrox/Rauletrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
