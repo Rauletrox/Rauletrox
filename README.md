@@ -13,6 +13,21 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=dark)
 
+<h1 align="center">Estadísticas de Rauletrox</h1>
+
+**Gráfico de Estadísticas Generales:**
+![](https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight)
+
+**Gráfico de Lenguajes Principales:**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=aura&langs_count=9)
+
+
+
+
+
+
+
+
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=aura&langs_count=9" />
