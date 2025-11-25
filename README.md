@@ -9,6 +9,9 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 </div>
 
+### 💻 Mis Lenguajes de Programación 📊
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=dark)
 
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight" />
