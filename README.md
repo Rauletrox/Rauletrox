@@ -17,8 +17,12 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
 
 ### 💻 Mis Lenguajes de Programación 📊
 
-
-
+<p align="center">
+<img src="iconos_svg/Java-Dark.svg" width="40px" />
+<img src="iconos_svg/Python-Dark.svg" width="40px" />
+<img src="iconos_svg/CSS.svg" width="40px" />
+<img src="iconos_svg/MySQL-Dark.svg" width="40px" />
+</p>
 
 
 ## Mis Trofeos
@@ -27,18 +31,12 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rauletrox&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-
-
-
-
-
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=aura&langs_count=9" />
-<img height="150" />
+<br>
 
 <!--Contador de Número de visitantes -->
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rauletrox" />
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Rauletrox" />
+</p>
  
 <!--
 **Rauletrox/Rauletrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
