@@ -20,12 +20,13 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
 <p align="center">
 <img src="iconos_svg/Java-Dark.svg" width="40px" />
 <img src="iconos_svg/Python-Dark.svg" width="40px" />
+<img src="iconos_svg/HTML.svg" width="40px" />
 <img src="iconos_svg/CSS.svg" width="40px" />
 <img src="iconos_svg/MySQL-Dark.svg" width="40px" />
 </p>
 
 
-## Mis Trofeos
+## Mis trofeos según GITHUB
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rauletrox&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
