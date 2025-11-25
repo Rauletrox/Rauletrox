@@ -9,11 +9,17 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 </div>
 
+<h1 align="center">Estadísticas de Rauletrox en GITHUB</h1>
+
+### 🌚 Los Lenguajes de programación que más he subido a GITHUB
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rauletrox&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
 ### 💻 Mis Lenguajes de Programación 📊
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=dark)
 
-<h1 align="center">Estadísticas de Rauletrox</h1>
+
+
 
 **Gráfico de Estadísticas Generales:**
 ![](https://github-readme-stats.vercel.app/api?username=Rauletrox&count_private=true&show_icons=true&theme=tokyonight)
@@ -21,8 +27,35 @@ Soy estudiante de la carrera Desarrollo de Aplicaciones en el Instituto Técnico
 **Gráfico de Lenguajes Principales:**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rauletrox&layout=compact&theme=aura&langs_count=9)
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rauletrox&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rauletrox&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rauletrox&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
+
+## Mis Trofeos
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rauletrox&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 
 
 
